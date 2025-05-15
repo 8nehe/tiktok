@@ -1,1 +1,2 @@
-print(tiktok)
+def signup():
+	pass
